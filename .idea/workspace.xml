@@ -17,31 +17,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/Perfectly_Balanced.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="44" />
+            <state relative-caret-position="765">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#229#246#0" expanded="true" />
-                <element signature="e#300#309#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/N_Queens_Validator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/UPC_Check_Digits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
@@ -50,6 +39,33 @@
                 <element signature="method#checkDigit#0;class#UPC_Check_Digits#0" />
                 <element signature="method#convert#0;class#UPC_Check_Digits#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/Hex_Colors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Intermediate/Challenges/Single_Symbol_Squares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/N_Queens_Validator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -76,14 +92,15 @@
         <option value="$PROJECT_DIR$/src/Easy/Challenges/Perfectly_Balanced.java" />
         <option value="$PROJECT_DIR$/src/Easy/Challenges/N_Queens_Validator.java" />
         <option value="$PROJECT_DIR$/src/Easy/Challenges/UPC_Check_Digits.java" />
+        <option value="$PROJECT_DIR$/src/Easy/Challenges/Hex_Colors.java" />
+        <option value="$PROJECT_DIR$/src/Intermediate/Challenges/Single_Symbol_Squares.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="169" />
-    <option name="y" value="-16" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,23 +108,22 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="dailyProgrammer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyProgrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyProgrammer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyProgrammer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dailyProgrammer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyProgrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyProgrammer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyProgrammer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="dailyProgrammer" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dailyProgrammer" type="462c0819:PsiDirectoryNode" />
+              <item name="DailyProgrammer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DailyProgrammer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Challenges" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -115,10 +131,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548049251928" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548104760483" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -136,13 +153,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UPC_Check_Digits">
+  <component name="RunManager" selected="Application.Hex_Colors">
     <configuration name="Balanced" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Easy.Challenges.Perfectly.Balanced" />
       <module name="DailyProgrammer" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Easy.Challenges.Perfectly.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hex_Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Easy.Challenges.Hex_Colors" />
+      <module name="DailyProgrammer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Easy.Challenges.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,26 +219,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Validator (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Easy.Challenges.Perfectly.Validator" />
-      <module name="DailyProgrammer" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Easy.Challenges.Perfectly.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hex_Colors" />
         <item itemvalue="Application.UPC_Check_Digits" />
         <item itemvalue="Application.N_Queens_Validator" />
         <item itemvalue="Application.Perfectly_Balanced" />
         <item itemvalue="Application.Balanced" />
-        <item itemvalue="Application.Validator (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -226,10 +243,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="762" y="0" width="781" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.122068234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24965326" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -239,8 +256,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20685959" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.43515542" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2062147" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.44067797" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -293,26 +310,18 @@
     <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/Validator.java" />
     <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/N_Queens_Validator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
+        <state relative-caret-position="398">
           <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/NumberFormatException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/NumberFormatException.java" />
     <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/Perfectly_Balanced.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="44" />
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#229#246#0" expanded="true" />
-            <element signature="e#300#309#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -325,6 +334,20 @@
             <element signature="method#checkDigit#0;class#UPC_Check_Digits#0" />
             <element signature="method#convert#0;class#UPC_Check_Digits#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Easy/Challenges/Hex_Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Intermediate/Challenges/Single_Symbol_Squares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -368,7 +391,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>11</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
